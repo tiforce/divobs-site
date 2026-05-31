@@ -32,11 +32,11 @@ Structured observation for informational and educational use only.
 
 ## Initial Posts
 
-1. Divergence Observatory is now in early development: an anonymous research-lab style observatory for market structure, hidden stress, and cross-asset divergence.
+1. Divergence Observatory is now in early development: an independent research-lab style observatory for market structure, hidden stress, and cross-asset divergence.
 
 2. Our framing is simple: market structure, not market calls. The goal is to observe how stress, volatility, policy, and geopolitical channels move through markets.
 
-3. We are designing the Daily GeoRisk Snapshot format. It will begin as high-level observatory context, with clear boundaries around uncertainty and non-advisory use.
+3. We are designing the GeoRisk Structure Note format as a planned, non-advisory structure note for development previews and high-level observatory context.
 
 4. Divergence can emerge gradually across market structure. Our work is to document those shifts carefully and contextually.
 

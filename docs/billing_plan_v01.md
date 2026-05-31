@@ -8,24 +8,24 @@ Billing is not implemented.
 
 Live payments are disabled. There is no checkout, payment processor, subscription logic, invoice handling, customer portal, payment webhook, or billing database in this repository.
 
-## Placeholder Plans
+## Placeholder Access Concepts
 
-The current website may reference placeholder access levels:
+The current website may reference placeholder access concepts:
 
-- Free: Basic public snapshots and development updates.
-- Pro: Coming soon. Expanded observatory notes and deeper market-structure context.
-- Institutional: Contact us. Future research workflow and organizational use.
+- Public: Public observatory notes and development updates.
+- Research Format Preview: Additional educational market-structure notes, subject to legal review.
+- Organizational Concept: Future organizational review concept, subject to legal approval.
 
-These plan descriptions are placeholders only. They do not create an offer, payment flow, subscription, or service obligation.
+These access concept descriptions are placeholders only. They do not create an offer, payment flow, subscription, advisory service, paid report delivery, or service obligation.
 
 ## Future Billing Requirements
 
 Future billing work should begin in test mode only.
 
-Before enabling any paid plan, the project should complete:
+Before enabling any future monetized access concept, the project should complete:
 
 - legal review of website copy
-- legal review of plan descriptions
+- legal review of access concept descriptions
 - legal review of disclaimers and terms
 - privacy review for any personal data handling
 - payment processor test-mode verification
@@ -34,13 +34,13 @@ Before enabling any paid plan, the project should complete:
 
 ## Non-Advisory Paid Positioning
 
-Paid plans must not be positioned as investment advice, personalized financial advice, trading instructions, market alerts, financial forecasts, or guaranteed research outcomes.
+Future monetized access concepts must not be positioned as investment advice, personalized financial advice, trading instructions, market alerts, financial forecasts, or guaranteed research outcomes.
 
 Acceptable paid positioning should remain focused on:
 
 - expanded observatory notes
 - deeper market-structure context
-- research workflow improvements
+- research workflow concepts
 - organizational access
 - educational and informational analysis
 
